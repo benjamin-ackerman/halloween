@@ -17,7 +17,7 @@ In order to use the package, you must first install it from this GitHub repo, wh
 
 ```
 library(devtools)
-devtools::install_github('[USERNAME]/halloween')
+devtools::install_github('benjamin-ackerman/halloween')
 ```
 Next, you must load the R package:
 
